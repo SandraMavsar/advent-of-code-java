@@ -1,0 +1,12 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build output
+/out/
+
+# Ignore compiled Java classes
+*.class
+
+# Logs
+*.log
