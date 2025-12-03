@@ -11,7 +11,7 @@ public class Solution {
 
         try {
             List<String> lines = Files.readAllLines(filePath);
-            System.out.println("Advent Of Code 2025, --- Day 1: Secret Entrance --- Solutions: ");
+            System.out.println("Advent Of Code 2025 --- Day 1: Secret Entrance --- Solutions: ");
             solutionBothDays(lines);
         } catch (IOException e) {
             System.err.println("Error reading file: " + e.getMessage());
