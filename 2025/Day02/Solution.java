@@ -18,14 +18,14 @@ public class Solution {
                 String[] parts = line.split("\\s*,\\s*");
 
                 System.out.println("Advent Of Code 2025 --- Day 2: Gift Shop --- Solutions: ");
-                solutionDayOne(parts);
+                solutionBothDays(parts);
             }
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    public static void solutionDayOne(String[] parts) {
+    public static void solutionBothDays(String[] parts) {
         long invalidIdsPartOne = 0;
         long invalidIdsPartTwo = 0;
 
