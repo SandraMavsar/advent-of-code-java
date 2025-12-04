@@ -5,5 +5,5 @@ Solutions for Advent of Code.
 
 | Year  | Solved      | Language |
 |-------|-------------|----------|
-| 2025  | 6/24 :star: | Java     |
+| 2025  | 8/24 :star: | Java     |
 
